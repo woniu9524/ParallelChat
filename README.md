@@ -1,3 +1,6 @@
+# 抱歉啊朋友们，我看到陆续还有人star这个项目，因为这个项目基于electron开发很难过风控，所以不是很好。我本人也放弃了这个项目，也是确实没有时间来处理。
+# 推荐大家使用Simple Chat Hub这个浏览器插件，这个本身风控更友好，也更轻量。
+# 再次感谢大家使用，但是不用再star了，有更好的替代品，推荐大家去用。
 <p align="center">
   <img src="assets/icon.png" alt="ParallelChat Logo" width="96" />
 </p>
